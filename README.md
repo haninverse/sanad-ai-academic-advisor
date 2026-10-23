@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💜 Sanad | سند
+#  Sanad | سند
 ### AI-Powered Academic Guidance — Bubble App
 
 **Prince Sattam bin Abdulaziz University · College of Computer Science and Engineering**
